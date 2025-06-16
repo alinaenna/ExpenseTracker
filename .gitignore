@@ -1,0 +1,6 @@
+# Root-level ignores
+node_modules
+.env
+.DS_Store
+*.log
+.vscode
